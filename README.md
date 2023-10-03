@@ -25,7 +25,7 @@ Exemplificação de Triangulo com css
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
